@@ -1,9 +1,9 @@
 Recommendation Book for DS Prep
 
 Math 
-	○ Linear Algebra and Its Applications by Gilbert Strang (Cengage Learning) 
-	○ Convex Optimization by Stephen Boyd and Lieven Vendenberghe (Cambridge University Press) 
-	○ A First Course in Probability (Pearson) and Introduction to Probability Models (Academic Press) by Sheldon Ross 
+ 	* Linear Algebra and Its Applications by Gilbert Strang (Cengage Learning) 
+	* Convex Optimization by Stephen Boyd and Lieven Vendenberghe (Cambridge University Press) 
+	* A First Course in Probability (Pearson) and Introduction to Probability Models (Academic Press) by Sheldon Ross 
 
 Coding 
 	○ R in a Nutshell by Joseph Adler (O’Reilly) 
