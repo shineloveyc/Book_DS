@@ -5,17 +5,17 @@ Recommendation Book for DS Prep
 	*Convex Optimization by Stephen Boyd and Lieven Vendenberghe (Cambridge University Press) 
 	*A First Course in Probability (Pearson) and Introduction to Probability Models (Academic Press) by Sheldon Ross 
 
-Coding 
-	○ R in a Nutshell by Joseph Adler (O’Reilly) 
-	○ Learning Python by Mark Lutz and David Ascher (O’Reilly) 
-	○ R for Everyone: Advanced Analytics and Graphics by Jared Lander (Addison-Wesley) 
-	○ The Art of R Programming: A Tour of Statistical Software Design by Norman Matloff (No Starch Press) 
-	○ Python for Data Analysis by Wes McKinney (O’Reilly) 
+### Coding 
+	*R in a Nutshell by Joseph Adler (O’Reilly) 
+	*Learning Python by Mark Lutz and David Ascher (O’Reilly) 
+	*R for Everyone: Advanced Analytics and Graphics by Jared Lander (Addison-Wesley) 
+	*The Art of R Programming: A Tour of Statistical Software Design by Norman Matloff (No Starch Press) 
+	*Python for Data Analysis by Wes McKinney (O’Reilly) 
 
-Data Analysis and Statistical Inference 
-	○ Statistical Inference by George Casella and Roger L. Berger (Cengage Learning) 
-	○ Bayesian Data Analysis by Andrew Gelman, et al. (Chapman & Hall) 
-	○ Data Analysis Using Regression and Multilevel/Hierarchical Models by Andrew Gelman and Jennifer Hill (Cambridge University Press) 
+### Data Analysis and Statistical Inference 
+	* Statistical Inference by George Casella and Roger L. Berger (Cengage Learning) 
+	* Bayesian Data Analysis by Andrew Gelman, et al. (Chapman & Hall) 
+	* Data Analysis Using Regression and Multilevel/Hierarchical Models by Andrew Gelman and Jennifer Hill (Cambridge University Press) 
 	○ Advanced Data Analysis from an Elementary Point of View by Cosma Shalizi (under contract with Cambridge University Press) 
 	○ The Elements of Statistical Learning: Data Mining, Inference and Prediction by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (Springer
 	
